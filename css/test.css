@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(64, 60, 60);
+}
+
+.contentArea {
+
+}
+
+.menuBox {
+    height: 50px;
+    background-color: rgb(132, 204, 235);
+}
+
+.googleMapBox {
+    height: 400px;
+    background-color: rgb(152, 230, 192);
+}
+
+.locationsMatrixBox {
+    height: 200px;
+    background-color: rgb(209, 209, 209);
+}
